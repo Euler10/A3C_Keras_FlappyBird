@@ -8,7 +8,7 @@ from pygame.locals import *
 from itertools import cycle
 import skimage
 
-FPS = 30
+FPS = 30000
 SCREENWIDTH  = 288  #use 256 (power of 2)
 SCREENHEIGHT = 405
 
